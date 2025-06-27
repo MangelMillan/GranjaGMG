@@ -60,7 +60,7 @@ const Header = () => {
             >
               <div className="w-12 h-12 flex items-center justify-center">
                 <Image
-                  src="/images/gmg logo.png"
+                  src="/gmglogo.png"
                   alt="GMG Logo"
                   width={48}
                   height={48}
@@ -826,7 +826,7 @@ const Footer = () => {
             <div className="flex items-center space-x-3 mb-4">
               <div className="w-12 h-12 flex items-center justify-center">
                 <Image
-                  src="/images/gmg logo.png"
+                  src="/gmglogo.png"
                   alt="GMG Logo"
                   width={48}
                   height={48}
